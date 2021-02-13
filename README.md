@@ -10,4 +10,4 @@ https://rutter10.github.io/osu-hw-3/
 
 
 Screen shot of application
-![Image of application](Password Generator.JPG)
+![Screenshot of Application](https://github.com/rutter10/osu-hw-3/blob/main/Password%20Generator.JPG)
